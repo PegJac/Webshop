@@ -1,5 +1,7 @@
 # Webshop
 
+https://pegjac.github.io/Webshop/
+
 Group assignment in the course Javascript - grundkurs, made in Javascript (focused on JQuery, Jquery UI).
 
 The site is a webshop where the customers can buy a christmas tree. 
